@@ -55,4 +55,4 @@ This project is a simple chat application implemented in Java using RMI (Remote 
 
 ## License:
 
-This project is licensed under the [MIT License](link to license file).
+This project is licensed under the [MIT License](License).
